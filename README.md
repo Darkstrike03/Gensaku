@@ -12,10 +12,8 @@ Built with Flutter, Gensaku aims to bridge the gap between simple note-taking an
 
 ## 📸 App Snapshots
 
-| Desktop Interface (Windows/Web) | Mobile Interface (Android) |
-| :---: | :---: |
-| <img src="screenshots/desktop.png" width="400"> | <img src="screenshots/mobile.png" width="200"> |
-| *Wide sidebar for library management* | *Collapsed drawer for focus* |
+### Mobile Interface (Android) 
+| <img src="screenshots/Screenshot 2026-01-15 162445-portrait.png" width="200"> | <img src="screenshots/Screenshot 2026-01-15 162625-portrait.png" width="200"> | <img src="screenshots/Screenshot 2026-01-15 162800-portrait.png" width="200">|
 
 ## 🛠 Tech Stack
 - **Framework:** Flutter (3.38.6 Stable)
